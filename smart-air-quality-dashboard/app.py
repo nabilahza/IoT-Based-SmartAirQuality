@@ -9,7 +9,7 @@ import pytz
 # =========================================================
 # CONFIGURATION
 # =========================================================
-FIREBASE_API_KEY = "AIzaSyBgrNOmT3u5RtiXh0SKmqNB_qIAPFI1Jrs"
+FIREBASE_API_KEY = "paste firebase api key here"
 REFRESH_INTERVAL_MS = 3000  # 3 seconds
 
 # =========================================================
