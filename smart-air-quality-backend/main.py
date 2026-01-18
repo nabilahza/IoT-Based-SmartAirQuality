@@ -20,7 +20,7 @@ MQTT_BROKER = "34.10.35.179"
 MQTT_PORT = 8883
 MQTT_TOPIC = "airquality/room1"
 MQTT_USER = "mqttsubscriber01"
-MQTT_PASS = "cloud@123"
+MQTT_PASS = "mqttsubscriberpassword"
 CA_CERT_PATH = "ca.crt"
 
 # =========================================================
