@@ -1,0 +1,6 @@
+streamlit
+requests
+pandas
+google-cloud-firestore
+streamlit-autorefresh
+plotly
