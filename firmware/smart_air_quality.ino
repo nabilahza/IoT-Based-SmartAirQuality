@@ -11,7 +11,7 @@
 
 // ================== WIFI ==================
 const char* ssid = "AndroidAP121F";
-const char* password = "ynrh8028";
+const char* password = "wifipassword";
 
 // ================== MQTT (TLS) ==================
 const char* mqttServer = "34.10.35.179";
